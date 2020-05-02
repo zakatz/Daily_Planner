@@ -30,6 +30,7 @@ public class main {
 		frame.setResizable(false);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
+		System.out.println("Hello Git!");
 	}
 
 }
